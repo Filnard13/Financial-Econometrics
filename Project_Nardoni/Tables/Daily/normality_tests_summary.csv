@@ -1,0 +1,5 @@
+Test,Statistic,p_value,Reject_H0
+Jarque-Bera,2048.65193639037,0.001,1
+Kolmogorov-Smirnov,0.0472799673641243,4.71022717845311e-14,1
+Shapiro-Wilk,NaN,0,1
+Cramér–von Mises,5.89265071000771,3.57877166875481e-16,1

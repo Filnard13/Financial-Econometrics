@@ -1,0 +1,8 @@
+Metric,Value
+MSFE GARCH,3.27788095326088
+VaR Exceedances 1% (count),3
+VaR Exceedances 5% (count),21
+VaR Exceedance Rate 1%,0.00641025641025641
+VaR Exceedance Rate 5%,0.0448717948717949
+Expected Rate 1%,0.01
+Expected Rate 5%,0.05

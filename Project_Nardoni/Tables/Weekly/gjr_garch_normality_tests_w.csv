@@ -1,0 +1,4 @@
+TestNames_w,TestStatistic_w,PValue_w,RejectH0_w,Conclusion_w
+Jarque-Bera,9.75212745830636,0.0114258586717551,1,Non-Normal
+Cramér-von Mises,0.114753140618994,0.409664744534034,0,Normal
+Shapiro-Wilk,NaN,0.00392538943364329,1,Non-Normal
